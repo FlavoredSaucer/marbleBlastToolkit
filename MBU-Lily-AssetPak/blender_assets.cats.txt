@@ -1,0 +1,25 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+063f1dc6-345e-4600-9173-5bda9bedf123:Entities (OpenMBU):Entities (OpenMBU)
+1678a7aa-5d2e-466c-bbee-ddda9d97a26a:Entities (OpenMBU)/Gems:Entities (OpenMBU)-Gems
+9db3410e-8412-4b88-bfea-01d5acc3cfae:Entities (OpenMBU)/Pads:Entities (OpenMBU)-Pads
+cc7bc527-d48f-4dc8-aebf-1430f8d351ef:Entities (OpenMBU)/Power Ups:Entities (OpenMBU)-Power Ups
+d51558c0-2485-4add-9f21-9c13fa6e7e64:Entities (PQ):Entities (PQ)
+10a85082-a17b-4f72-89d6-de3f131a99b2:Entities (PQ)/Gems:Entities (PQ)-Gems
+24b066b7-3173-4579-9466-32231bf525a8:Entities (PQ)/Pads:Entities (PQ)-Pads
+f837ebfb-6d8d-453e-b0f2-8afd7dd8d7e6:Entities (PQ)/Power Ups:Entities (PQ)-Power Ups
+6fc69a98-4b00-4b6a-a3c4-e515809838fb:Geometry Nodes:Geometry Nodes
+f7a31313-74c8-428c-91e9-1099db8164c2:Materials:Materials
+28ffe230-c0e6-424b-8eeb-8f26020bb346:Materials/Friction:Materials-Friction
+e86b72a5-4b6f-463b-87f0-abdb25d4843a:Materials/Structual:Materials-Structual
+0b40c235-9ad8-4bd1-9e74-c807fb2b9e5c:Materials/Tiles:Materials-Tiles
+347ea56c-a927-42b0-8817-760149a4fa0f:Materials/Tiles/Advanced:Materials-Tiles-Advanced
+d22aee0d-aef7-47e7-b55e-0209ec162a95:Materials/Tiles/Beginner:Materials-Tiles-Beginner
+74df6153-de27-44b9-affb-aadf1d5d6b99:Materials/Tiles/Intermediate:Materials-Tiles-Intermediate
+329ce102-986b-4199-acb8-63f7ac30adb3:Templates:Templates
