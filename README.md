@@ -14,8 +14,8 @@ Navigate the file browser to where you extracted MBU-Lily-AssetPak, select the f
 ## Tools
 
 ### Triplanar Mapping
-This tool lets you UV Unwrap selected faces using triplanar mapping with predefined scales for specific materials<br>
-![](docs/images/triplanarMap.gif)<br>
+UV Unwraps selected faces using triplanar mapping with predefined scales for specific materials
+![](docs/images/triplanarMap.gif)
 - Materials:
     - The tool defaults to mapping to Tile-scale
     - Trim: Scales the mapping to Trim-scale
