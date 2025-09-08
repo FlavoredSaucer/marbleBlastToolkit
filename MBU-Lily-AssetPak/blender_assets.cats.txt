@@ -37,6 +37,10 @@ b04fb63d-8773-4eb6-9d6b-aa24335313c8:Interiors/PlatinumQuest/Arrows & Chevrons:I
 5d1b7a45-1a9b-426c-9e4d-c6c7175d094d:Interiors/PlatinumQuest/Solids & Stripes:Interiors-PlatinumQuest-Solids & Stripes
 cfb510b8-1ac0-4934-8282-c7abcc4531ee:Interiors/PlatinumQuest/Tiles:Interiors-PlatinumQuest-Tiles
 ed99bdb9-fd89-4ff1-a6e4-6c055394e10d:Interiors/PlatinumQuest/Walls:Interiors-PlatinumQuest-Walls
+0650207e-f4ff-4795-a289-9835061f7cb2:Interiors/Special--1.50:Interiors-Special--1.50
+87500b3e-79e3-49a8-9caa-5057f59047e2:Interiors/Special--1.50/1.50 Textures:Interiors-Special--1.50-1.50 Textures
+11fadcce-52f7-4642-a093-b6cd64409aa4:Interiors/Special--1.50/Frightfest:Interiors-Special--1.50-Frightfest
+b2825a7d-d210-4479-9bb3-75dcf297b19e:Interiors/Special--1.50/Winterfest:Interiors-Special--1.50-Winterfest
 b1a487af-ded8-4679-b337-5fc4836321c6:Shapes:Shapes
 fbaba03c-ba43-43f5-8baa-b298641e4e76:Shapes/Marble Blast Gold&XP:Shapes-Marble Blast Gold&XP
 f12f6fac-7ce2-4ce8-adf4-9310850021e3:Shapes/Marble Blast Gold&XP/Gems:Shapes-Marble Blast Gold&XP-Gems
