@@ -36,6 +36,10 @@ b04fb63d-8773-4eb6-9d6b-aa24335313c8:Interiors/PlatinumQuest/Arrows & Chevrons:I
 04e4d975-6e35-4ffe-ac22-43ee8bf70768:Interiors/PlatinumQuest/Misc:Interiors-PlatinumQuest-Misc
 5d1b7a45-1a9b-426c-9e4d-c6c7175d094d:Interiors/PlatinumQuest/Solids & Stripes:Interiors-PlatinumQuest-Solids & Stripes
 cfb510b8-1ac0-4934-8282-c7abcc4531ee:Interiors/PlatinumQuest/Tiles:Interiors-PlatinumQuest-Tiles
+825fe0ee-07cf-49d6-9e73-f8da5c64831d:Interiors/PlatinumQuest/Tiles/Dark:Interiors-PlatinumQuest-Tiles-Dark
+5b640936-d352-43ba-af32-7f62f4c5c630:Interiors/PlatinumQuest/Tiles/Light:Interiors-PlatinumQuest-Tiles-Light
+ae2765d6-a0fb-4a6d-bb02-abeb995ec5b3:Interiors/PlatinumQuest/Tiles/Med:Interiors-PlatinumQuest-Tiles-Med
+734e0acf-5b2d-43b0-bd55-e913d00548af:Interiors/PlatinumQuest/Tiles/Random:Interiors-PlatinumQuest-Tiles-Random
 ed99bdb9-fd89-4ff1-a6e4-6c055394e10d:Interiors/PlatinumQuest/Walls:Interiors-PlatinumQuest-Walls
 0650207e-f4ff-4795-a289-9835061f7cb2:Interiors/Special--1.50:Interiors-Special--1.50
 87500b3e-79e3-49a8-9caa-5057f59047e2:Interiors/Special--1.50/1.50 Textures:Interiors-Special--1.50-1.50 Textures
